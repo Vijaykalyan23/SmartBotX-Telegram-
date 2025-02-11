@@ -50,8 +50,8 @@ python app.py
 This project is licensed under the **MIT License**.
 
 ## 🌍 Connect with Me
-🔗 **GitHub**: [YOUR_GITHUB_USERNAME](https://github.com/Vijaykalyan23)  
-🔗 **Telegram**: [Your Telegram Bot](https://t.me/Rkvkrj_bot)
+🔗 **GitHub**: (https://github.com/Vijaykalyan23)  
+🔗 **Telegram**: (https://t.me/Rkvkrj_bot)
 
 ---
 💡 _Contributions, issues, and feature requests are welcome!_ 🎯
